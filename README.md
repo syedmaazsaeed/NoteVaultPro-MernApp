@@ -155,12 +155,6 @@ MongoDB (Mongoose)
 
 JSON Web Tokens (JWT) for authentication
 
-<h2>Development Tools:</h2>
-
-Concurrently for running both servers simultaneously
-
-Dotenv for managing environment variables
-
 <h1>🤝 Contributing</h1>
 
 We welcome contributions! If you'd like to contribute:
