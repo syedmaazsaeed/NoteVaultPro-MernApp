@@ -171,11 +171,11 @@ Create a new branch (git checkout -b feature-branch).
 
 Make your changes.
 
-Commit the changes (git commit -m "Added feature").
+Commit the changes (git commit -m "commit something you want").
 
 Push to the branch (git push origin feature-branch).
 
-Open a pull request, and we’ll review your changes.
+Open a pull request, and we will review your changes.
 
 <h1>📞 Contact</h1>
 
