@@ -33,7 +33,7 @@ Welcome to **NoteVaultPro**, a secure and feature-rich note-taking application b
 
 1. **Clone the repository**:
    
-git clone https://github.com/yourusername/NoteVaultPro-MERNApp.git
+git clone https://github.com/syedmaazsaeed/NoteVaultPro-MERNApp.git
    
 cd NoteVaultPro-MERNApp
 
