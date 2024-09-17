@@ -96,25 +96,43 @@ Logout: Secure your account by logging out after use.
 
 NoteVaultPro-MERNApp/
 ├── Backend/              # Backend folder (Express & MongoDB)
+
 │   ├── controllers/      # Request handlers
+
 │   ├── models/           # Mongoose schemas and models
+
 │   ├── routes/           # API routes
+
 │   └── index.js          # Server setup
-│
+
+
 ├── Frontend/             # Frontend folder (React.js)
+
 │   ├── src/
+
 │   │   ├── components/   # React components
+
 │   │   │   ├── AddNote.jsx
+
 │   │   │   ├── Navbar.jsx
+
 │   │   │   ├── Login.jsx
+
 │   │   │   ├── Alert.jsx
+
 │   │   │   ├── Notes.jsx
+
 │   │   │   └── NoteItem.jsx
+
 │   │   ├── App.js        # Main app file
+
 │   │   └── index.js      # Entry point
+
 │
 ├── .gitignore            # Ignored files in git
+
 ├── README.md             # This readme file
+
 └── package.json          # Project configuration and dependencies
 
 <h1>💻 Technologies Used</h1>
