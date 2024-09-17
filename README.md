@@ -1,10 +1,9 @@
-# 📝 NoteVaultPro-MERNApp
+<h1>📝 NoteVaultPro-MERNApp</h1>
 
 Welcome to **NoteVaultPro**, a secure and feature-rich note-taking application built using the powerful **MERN Stack** (MongoDB, Express, React, and Node.js). It’s designed to help you efficiently manage your notes, ideas, and to-do lists with ease and security. Whether you're a student, professional, or just someone who loves staying organized, **NoteVaultPro** is the perfect solution for you!
 
 
-
-## 🚀 Features
+<h1>🚀 Features</h1>
 
 - **🔐 Secure Cloud Storage**: Keep all your notes safely stored in the cloud.
   
@@ -20,25 +19,25 @@ Welcome to **NoteVaultPro**, a secure and feature-rich note-taking application b
 
 ---
 
-## ⚙️ Installation
+<h1>⚙️ Installation</h1>
 
-### Prerequisites
+<h2>Prerequisites</h2>
 
-Make sure you have the following installed:
+<h3>Make sure you have the following installed:</h3>
 
 - **Node.js**
   
 - **MongoDB**
 
-### Backend Setup
+<h2>Backend Setup</h2>
 
 1. **Clone the repository**:
    
-   git clone https://github.com/yourusername/NoteVaultPro-MERNApp.git
+git clone https://github.com/yourusername/NoteVaultPro-MERNApp.git
    
-   cd NoteVaultPro-MERNApp
+cd NoteVaultPro-MERNApp
 
-2.  Navigate to the backend folder and install dependencies:
+2. Navigate to the backend folder and install dependencies:
 
 cd Backend
 
@@ -46,32 +45,28 @@ npm install
 
 3. Create a .env file in the backend root directory and add the following configuration:
 
-
 MONGO_URI=your-mongo-uri
 
 JWT_SECRET=your-jwt-secret
 
 4. Start the backend server:
 
-
 npm start
 
 This will start the backend at http://localhost:5000.
 
-Frontend Setup
+</h1>Frontend Setup</h1>
 
-Navigate to the frontend folder:
-
+<h3>Navigate to the frontend folder:</h3>
 
 cd ../Frontend
 
-Install frontend dependencies:
+<h2>Install frontend dependencies:</h2>
 
 
 npm install
 
-Start the frontend development server:
-
+<h3>Start the frontend development server:</h3>
 
 npm start
 
@@ -84,7 +79,7 @@ To start both the frontend and backend servers simultaneously, run:
 
 npm run both
 
-🎮 Usage
+<h1>🎮 Usage</h1>
 
 Sign Up/Login: Create an account or log in to your existing account.
 
@@ -96,7 +91,7 @@ Edit/Delete Notes: Modify or delete notes at your convenience.
 
 Logout: Secure your account by logging out after use.
 
-🗂️ Project Structure
+<h1>🗂️ Project Structure</h1>
 
 
 NoteVaultPro-MERNApp/
@@ -122,9 +117,9 @@ NoteVaultPro-MERNApp/
 ├── README.md             # This readme file
 └── package.json          # Project configuration and dependencies
 
-💻 Technologies Used
+<h1>💻 Technologies Used</h1>
 
-Frontend:
+<h2>Frontend:</h2>
 
 React.js
 
@@ -132,7 +127,7 @@ Bootstrap 5 for UI design
 
 React Router DOM for navigation
 
-Backend:
+<h2>Backend:</h2>
 
 Node.js
 
@@ -142,13 +137,13 @@ MongoDB (Mongoose)
 
 JSON Web Tokens (JWT) for authentication
 
-Development Tools:
+<h2>Development Tools:</h2>
 
 Concurrently for running both servers simultaneously
 
 Dotenv for managing environment variables
 
-🤝 Contributing
+<h1>🤝 Contributing</h1>
 
 We welcome contributions! If you'd like to contribute:
 
@@ -164,11 +159,11 @@ Push to the branch (git push origin feature-branch).
 
 Open a pull request, and we’ll review your changes.
 
-📞 Contact
+<h1>📞 Contact</h1>
 
 Developed by Syed Maaz Saeed.
 
-Feel free to reach out at:
+<h2>Feel free to reach out at:</h2>
 
 📧 syedmaazsaeeddev@gmail.com
 
