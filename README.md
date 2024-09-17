@@ -1,6 +1,6 @@
 <h1>📝 NoteVaultPro-MERNApp</h1>
 
-Welcome to **NoteVaultPro**, a secure and feature-rich note-taking application built using the powerful <h2>MERN Stack</h2> (MongoDB, Express, React, and Node.js). It’s designed to help you efficiently manage your notes, ideas, and to-do lists with ease and security. Whether you're a student, professional, or just someone who loves staying organized, <h2>NoteVaultPro</h2> is the perfect solution for you!
+Welcome to **NoteVaultPro**, a secure and feature-rich note-taking application built using the powerful <h2>🚀MERN Stack</h2> (MongoDB, Express, React, and Node.js). It’s designed to help you efficiently manage your notes, ideas, and to-do lists with ease and security. Whether you're a student, professional, or just someone who loves staying organized, <h2>NoteVaultPro</h2> is the perfect solution for you!
 
 
 <h1>🚀 Features</h1>
@@ -21,7 +21,7 @@ Welcome to **NoteVaultPro**, a secure and feature-rich note-taking application b
 
 <h1>⚙️ Installation</h1>
 
-<h2>Prerequisites</h2>
+<h2>🔧Prerequisites</h2>
 
 <h3>Make sure you have the following installed:</h3>
 
@@ -29,7 +29,7 @@ Welcome to **NoteVaultPro**, a secure and feature-rich note-taking application b
   
 - **MongoDB**
 
-<h2>Backend Setup</h2>
+<h2>💡Backend Setup</h2>
 
 1. **Clone the repository**:
    
@@ -43,13 +43,13 @@ cd Backend
 
 npm install
 
-3. Create a .env file in the backend root directory and add the following configuration:
+3.💬 Create a .env file in the backend root directory and add the following configuration:
 
 MONGO_URI=your-mongo-uri
 
 JWT_SECRET=your-jwt-secret
 
-4. Start the backend server:
+4.🔥 Start the backend server:
 
 npm start
 
