@@ -45,7 +45,7 @@ npm install
 
 3.💬 Create a .env file in the backend root directory and add the following configuration:
 
-MONGO_URI=your-mongo-uri
+MONGO_URI=your-mongo-URI
 
 JWT_SECRET=your-jwt-secret
 
