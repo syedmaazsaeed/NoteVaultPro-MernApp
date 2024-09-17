@@ -53,7 +53,7 @@ JWT_SECRET=your-jwt-secret
 
 npm start
 
-This will start the backend at http://localhost:5000.
+💎This will start the backend at http://localhost:5000.
 
 </h1>Frontend Setup</h1>
 
@@ -72,7 +72,7 @@ npm start
 
 The frontend will run on http://localhost:3000.
 
-Running Both Servers Concurrently
+🎓 Running Both Servers Concurrently
 
 To start both the frontend and backend servers simultaneously, run:
 
