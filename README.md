@@ -1,6 +1,6 @@
 <h1>📝 NoteVaultPro-MERNApp</h1>
 
-Welcome to **NoteVaultPro**, a secure and feature-rich note-taking application built using the powerful <h2>🚀MERN Stack</h2> (MongoDB, Express, React, and Node.js). It’s designed to help you efficiently manage your notes, ideas, and to-do lists with ease and security. Whether you're a student, professional, or just someone who loves staying organized, <h2>NoteVaultPro</h2> is the perfect solution for you!
+Welcome to **NoteVaultPro**, a secure and feature-rich note-taking application built using the powerful 🚀MERN Stack(MongoDB, Express, React, and Node.js). It’s designed to help you efficiently manage your notes, ideas, and to-do lists with ease and security. Whether you're a student, professional, or just someone who loves staying organized, <h2>NoteVaultPro</h2> is the perfect solution for you!
 
 
 <h1>🚀 Features</h1>
